@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**Mikey24M/Mikey24M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="left">Hi There👋</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="left">My name is Michael and I'm a Student-Athlete at San Francisco State University studying Computer Science</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+
+
+<p align="left">📚 I'm currently becoming AWS Certified<br>🎯 Goals: Gain Real-World Expierence<br>🎲 In my free time I enjoy coding, exercising, reading, golfing, and much more </p>
+
+###
+
+
